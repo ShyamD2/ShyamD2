@@ -1,18 +1,18 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Shyam%20Kumar%20D&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Cloud%20Infrastructure%20Engineer%20%7C%20AWS%20%7C%20Networking%20%26%20Systems&descAlignY=62&descSize=16" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Shyam%20Kumar%20D&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Cloud%20Infrastructure%20Engineer%20%7C%20AWS%20%7C%20Networking%20%26%20Systems&amp;descAlignY=62&amp;descSize=16" />
 </p>
 
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Cloud+Infrastructure+Engineer+%7C+AWS+%2B+Azure;B.Sc.+Networking+%28Cloud+Computing%29+%40+SLCS+Madurai;Building+Scalable%2C+Secure+AWS+Environments;99%25+Uptime+%7C+VPC+%7C+EC2+%7C+ALB+%7C+IAM+%7C+S3;Open+to+Cloud+%26+IT+Support+Roles+in+Bangalore" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=24&amp;duration=3000&amp;pause=1000&amp;color=70A5FD&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Cloud+Infrastructure+Engineer+%7C+AWS+%2B+Azure;B.Sc.+Networking+%28Cloud+Computing%29+%40+SLCS+Madurai;Building+Scalable%2C+Secure+AWS+Environments;99%25+Uptime+%7C+VPC+%7C+EC2+%7C+ALB+%7C+IAM+%7C+S3;Open+to+Cloud+%26+IT+Support+Roles+in+Bangalore" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ShyamD2&color=70A5FD&style=flat-square&label=Profile+Views" />
-  <a href="mailto:dshyamkumar021@gmail.com"><img src="https://img.shields.io/badge/Gmail-dshyamkumar021-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/shyam-kumar-d"><img src="https://img.shields.io/badge/LinkedIn-shyam--kumar--d-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/ShyamD2"><img src="https://img.shields.io/badge/GitHub-ShyamD2-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=ShyamD2&amp;color=70A5FD&amp;style=flat-square&amp;label=Profile+Views" />
+  <a href="mailto:dshyamkumar021@gmail.com"><img src="https://img.shields.io/badge/Gmail-dshyamkumar021-EA4335?style=flat-square&amp;logo=gmail&amp;logoColor=white" /></a>
+  <a href="https://linkedin.com/in/shyam-kumar-d"><img src="https://img.shields.io/badge/LinkedIn-shyam--kumar--d-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" /></a>
+  <a href="https://github.com/ShyamD2"><img src="https://img.shields.io/badge/GitHub-ShyamD2-181717?style=flat-square&amp;logo=github&amp;logoColor=white" /></a>
 </p>
 
 ---
@@ -95,8 +95,8 @@ class ShyamKumarD:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShyamD2&show_icons=true&theme=tokyonight&bg_color=0d1117&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShyamD2&layout=compact&theme=tokyonight&bg_color=0d1117&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShyamD2&amp;show_icons=true&amp;theme=tokyonight&amp;bg_color=0d1117&amp;hide_border=true&amp;count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShyamD2&amp;layout=compact&amp;theme=tokyonight&amp;bg_color=0d1117&amp;hide_border=true" />
 </p>
 
 ---
@@ -104,7 +104,7 @@ class ShyamKumarD:
 ## 🔥 Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ShyamD2&theme=tokyonight-duo&background=0d1117&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+  <img src="https://streak-stats.demolab.com?user=ShyamD2&amp;theme=tokyonight-duo&amp;background=0d1117&amp;hide_border=true&amp;date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
 ---
@@ -112,7 +112,7 @@ class ShyamKumarD:
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShyamD2&theme=tokyo-night&bg_color=0d1117&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShyamD2&amp;theme=tokyo-night&amp;bg_color=0d1117&amp;hide_border=true" />
 </p>
 
 ---
@@ -120,7 +120,7 @@ class ShyamKumarD:
 ## 🏆 Trophy Wall
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ShyamD2&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ShyamD2&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8&amp;row=1" />
 </p>
 
 ---
@@ -198,7 +198,7 @@ Subbalakshmi Lakshmipathy College of Science, Madurai · GPA: **8.4 / 10.0** · 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=120&amp;section=footer" />
 </p>
 
 <p align="center">
