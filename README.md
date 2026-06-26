@@ -28,7 +28,7 @@ class ShyamKumarD:
         "AWS (EC2, S3, ALB, VPC, IAM, Auto Scaling)",
         "Microsoft Azure (Compute, Networking, Storage)",
         "Linux (Ubuntu, Kali)",
-        "Python & Bash Scripting",
+        "Python &amp; Bash Scripting",
         "TCP/IP, DNS, DHCP, VPN, OSI Model",
         "Nmap, Burp Suite, Wireshark",
     ]
@@ -51,42 +51,42 @@ class ShyamKumarD:
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&amp;logo=gnu-bash&amp;logoColor=white)
 
-**Cloud & DevOps**
+**Cloud &amp; DevOps**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
-![IAM](https://img.shields.io/badge/IAM-DD344C?style=flat-square&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&amp;logo=amazonaws&amp;logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&amp;logo=amazonaws&amp;logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&amp;logo=amazons3&amp;logoColor=white)
+![IAM](https://img.shields.io/badge/IAM-DD344C?style=flat-square&amp;logo=amazonaws&amp;logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&amp;logo=microsoftazure&amp;logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&amp;logo=googlecloud&amp;logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&amp;logo=git&amp;logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&amp;logo=github&amp;logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&amp;logo=postman&amp;logoColor=white)
 
-**Networking & Security**
+**Networking &amp; Security**
 
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-004170?style=flat-square&logo=nmap&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&amp;logo=wireshark&amp;logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-004170?style=flat-square&amp;logo=nmap&amp;logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&amp;logo=burpsuite&amp;logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=flat-square&amp;logo=cisco&amp;logoColor=white)
 
-**OS & Tools**
+**OS &amp; Tools**
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white)
-![RDP](https://img.shields.io/badge/RDP-0078D4?style=flat-square&logo=windows&logoColor=white)
-![TeamViewer](https://img.shields.io/badge/TeamViewer-0E8EE9?style=flat-square&logo=teamviewer&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&amp;logo=linux&amp;logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&amp;logo=ubuntu&amp;logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&amp;logo=kalilinux&amp;logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat-square&amp;logo=windows&amp;logoColor=white)
+![RDP](https://img.shields.io/badge/RDP-0078D4?style=flat-square&amp;logo=windows&amp;logoColor=white)
+![TeamViewer](https://img.shields.io/badge/TeamViewer-0E8EE9?style=flat-square&amp;logo=teamviewer&amp;logoColor=white)
 
-**Support & CRM**
+**Support &amp; CRM**
 
-![Freshdesk](https://img.shields.io/badge/Freshdesk-25C16F?style=flat-square&logo=freshdesk&logoColor=white)
-![Zendesk](https://img.shields.io/badge/Zendesk-03363D?style=flat-square&logo=zendesk&logoColor=white)
-![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat-square&logo=jira&logoColor=white)
+![Freshdesk](https://img.shields.io/badge/Freshdesk-25C16F?style=flat-square&amp;logo=freshdesk&amp;logoColor=white)
+![Zendesk](https://img.shields.io/badge/Zendesk-03363D?style=flat-square&amp;logo=zendesk&amp;logoColor=white)
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat-square&amp;logo=jira&amp;logoColor=white)
 
 ---
 
@@ -137,7 +137,7 @@ class ShyamKumarD:
 
 ---
 
-## 🎖️ Achievements & Simulations
+## 🎖️ Achievements &amp; Simulations
 
 <p align="center">
 
@@ -154,7 +154,7 @@ class ShyamKumarD:
 
 ---
 
-## 🎓 Education & Currently Learning
+## 🎓 Education &amp; Currently Learning
 
 **B.Sc. Networking (Cloud Computing)**
 Subbalakshmi Lakshmipathy College of Science, Madurai · GPA: **8.4 / 10.0** · Expected: **May 2027**
@@ -165,7 +165,7 @@ Subbalakshmi Lakshmipathy College of Science, Madurai · GPA: **8.4 / 10.0** · 
 ✅ AWS Certified Cloud Practitioner (CLF-C02) — Final prep stage
 🔧 Terraform — Infrastructure as Code
 🐍 boto3 — Cloud automation with Python
-🔐 IAM Advanced Policies & Security Best Practices
+🔐 IAM Advanced Policies &amp; Security Best Practices
 ```
 
 ---
