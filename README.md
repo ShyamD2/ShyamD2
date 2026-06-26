@@ -1,15 +1,50 @@
 <p align="center">
   <img src="./assets/hero-banner.png" width="100%" alt="Shyam Hero Banner"/>
 </p>
+<!-- CLOUD IDENTITY SECTION -->
+
+<h1 align="center">
+   SHYAM KUMAR D 
+</h1>
+
+<h3 align="center">
+Cloud Infrastructure Engineer • AWS • Networking • DevOps
+</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=24&amp;duration=5000&amp;pause=2000&amp;color=70A5FD&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Cloud+Infrastructure+Engineer+%7C+AWS+%2B+Azure;B.Sc.+Networking+%28Cloud+Computing%29+%40+SLCS+Madurai;Building+Scalable%2C+Secure+AWS+Environments;99%25+Uptime+%7C+VPC+%7C+EC2+%7C+ALB+%7C+IAM+%7C+S3;Open+to+Cloud+%26+IT+Support+Roles+in+Bangalore" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3500&pause=1000&color=70A5FD&center=true&vCenter=true&width=1000&lines=Building+Scalable+Cloud+Infrastructure;AWS+%7C+Azure+%7C+Linux+%7C+Networking;VPC+%7C+EC2+%7C+IAM+%7C+S3+%7C+Automation;Designing+Secure+Cloud+Architectures;Ship+Secure+Infrastructure+Leave+No+Downtime"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ShyamD2&amp;color=70A5FD&amp;style=flat-square&amp;label=Profile+Views" />
-  <a href="mailto:dshyamkumar021@gmail.com"><img src="https://img.shields.io/badge/Gmail-dshyamkumar021-EA4335?style=flat-square&amp;logo=gmail&amp;logoColor=white" /></a>
-  <a href="https://linkedin.com/in/shyam-kumar-d"><img src="https://img.shields.io/badge/LinkedIn-shyam--kumar--d-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" /></a>
-  <a href="https://github.com/ShyamD2"><img src="https://img.shields.io/badge/GitHub-ShyamD2-181717?style=flat-square&amp;logo=github&amp;logoColor=white" /></a>
+══════════════════════════════════════════════════════════
+</p>
+
+<!-- CONTACT / BADGES SECTION -->
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=ShyamD2&style=for-the-badge&label=PROFILE+VIEWS&color=0E75B6"/>
+
+<a href="mailto:dshyamkumar021@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-dshyamkumar021-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/shyam-kumar-d">
+<img src="https://img.shields.io/badge/LinkedIn-Shyam_Kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/ShyamD2">
+<img src="https://img.shields.io/badge/GitHub-ShyamD2-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+⚡ Designing • Deploying • Securing • Automating Cloud Infrastructure ⚡
+</p>
+
+<p align="center">
+══════════════════════════════════════════════════════════
 </p>
 
 ---
