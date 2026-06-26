@@ -3,9 +3,7 @@
 </p>
 
 <p align="center">
-  <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=24&amp;duration=3000&amp;pause=1000&amp;color=70A5FD&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Cloud+Infrastructure+Engineer+%7C+AWS+%2B+Azure;B.Sc.+Networking+%28Cloud+Computing%29+%40+SLCS+Madurai;Building+Scalable%2C+Secure+AWS+Environments;99%25+Uptime+%7C+VPC+%7C+EC2+%7C+ALB+%7C+IAM+%7C+S3;Open+to+Cloud+%26+IT+Support+Roles+in+Bangalore" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=24&amp;duration=3000&amp;pause=1000&amp;color=70A5FD&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Cloud+Infrastructure+Engineer+%7C+AWS+%2B+Azure;B.Sc.+Networking+%28Cloud+Computing%29+%40+SLCS+Madurai;Building+Scalable%2C+Secure+AWS+Environments;99%25+Uptime+%7C+VPC+%7C+EC2+%7C+ALB+%7C+IAM+%7C+S3;Open+to+Cloud+%26+IT+Support+Roles+in+Bangalore" />
 </p>
 
 <p align="center">
@@ -92,35 +90,10 @@ class ShyamKumarD:
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShyamD2&amp;show_icons=true&amp;theme=tokyonight&amp;bg_color=0d1117&amp;hide_border=true&amp;count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShyamD2&amp;layout=compact&amp;theme=tokyonight&amp;bg_color=0d1117&amp;hide_border=true" />
-</p>
-
----
-
-## 🔥 Streak Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ShyamD2&amp;theme=tokyonight-duo&amp;background=0d1117&amp;hide_border=true&amp;date_format=M%20j%5B%2C%20Y%5D" />
-</p>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShyamD2&amp;theme=tokyo-night&amp;bg_color=0d1117&amp;hide_border=true" />
-</p>
-
----
-
 ## 🏆 Trophy Wall
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ShyamD2&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8&amp;row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ShyamD2&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8&amp;row=1&amp;column=7" />
 </p>
 
 ---
@@ -128,7 +101,7 @@ class ShyamKumarD:
 ## 💼 Work Experience
 
 <details>
-<summary><b>🧾 Billing & Inventory Associate — Sapna Garments, Madurai</b> &nbsp;|&nbsp; Sep 2024 – Present (Part-Time)</summary>
+<summary><b>🧾 Billing &amp; Inventory Associate — Sapna Garments, Madurai</b> &nbsp;|&nbsp; Sep 2024 – Present (Part-Time)</summary>
 
 <br/>
 
