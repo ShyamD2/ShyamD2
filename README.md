@@ -89,14 +89,6 @@ class ShyamKumarD:
 
 ---
 
-## 🏆 Trophy Wall
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ShyamD2&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;margin-w=8&amp;row=1&amp;column=7" />
-</p>
-
----
-
 ## 💼 Work Experience
 
 <details>
