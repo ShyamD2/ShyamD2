@@ -2,7 +2,7 @@
   <img src="./assets/hero-banner.png" width="100%" alt="Shyam Hero Banner"/>
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=24&amp;duration=3000&amp;pause=1000&amp;color=70A5FD&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Cloud+Infrastructure+Engineer+%7C+AWS+%2B+Azure;B.Sc.+Networking+%28Cloud+Computing%29+%40+SLCS+Madurai;Building+Scalable%2C+Secure+AWS+Environments;99%25+Uptime+%7C+VPC+%7C+EC2+%7C+ALB+%7C+IAM+%7C+S3;Open+to+Cloud+%26+IT+Support+Roles+in+Bangalore" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=700&amp;size=24&amp;duration=5000&amp;pause=2000&amp;color=70A5FD&amp;center=true&amp;vCenter=true&amp;width=750&amp;lines=Cloud+Infrastructure+Engineer+%7C+AWS+%2B+Azure;B.Sc.+Networking+%28Cloud+Computing%29+%40+SLCS+Madurai;Building+Scalable%2C+Secure+AWS+Environments;99%25+Uptime+%7C+VPC+%7C+EC2+%7C+ALB+%7C+IAM+%7C+S3;Open+to+Cloud+%26+IT+Support+Roles+in+Bangalore" />
 </p>
 
 <p align="center">
