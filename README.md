@@ -1,4 +1,8 @@
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/light.svg">
+  <img src="./assets/dark.svg" width="100%" alt="Shyam Kumar D Hero Banner"/>
+</picture>
 <!-- CLOUD IDENTITY SECTION -->
 
 <h1 align="center">
