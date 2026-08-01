@@ -19,14 +19,7 @@ Cloud Infrastructure Engineer • AWS • Networking • DevOps
 
 <p align="center">
 ══════════════════════════════════════════════════════════
-</p>
-<p align="center">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShyamD2/ShyamD2/main/dark.svg">
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShyamD2/ShyamD2/main/light.svg">
-<img alt="GitHub Jet Heatmap" src="https://raw.githubusercontent.com/ShyamD2/ShyamD2/main/dark.svg" width="100%">
-</picture>
-</p>
+
 <!-- CONTACT / BADGES SECTION -->
 
 <p align="center">
