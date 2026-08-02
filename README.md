@@ -196,6 +196,17 @@ Subbalakshmi Lakshmipathy College of Science, Madurai · GPA: **8.4 / 10.0** · 
 ```
 
 ---
+## 🐍 GitHub Contribution Snake
+
+[#-github-contribution-snake](#-github-contribution-snake)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShyamD2/ShyamD2/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShyamD2/ShyamD2/output/github-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/ShyamD2/ShyamD2/output/github-snake-dark.svg" />
+</picture>
+
+---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=120&amp;section=footer" />
