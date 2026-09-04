@@ -506,7 +506,7 @@
 
     <text x="551" y="276" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="10.5" font-weight="700" fill="#22D3EE">NOW</text>
 
-    <text x="588" y="276" font-family="Segoe UI, Arial, sans-serif" font-size="14.5" fill="#94A3B8">Building Cloud-Native Apps Infrastructure &#8212; In Progress</text>
+    <text x="588" y="276" font-family="Segoe UI, Arial, sans-serif" font-size="14.5" fill="#94A3B8">Building Cloud-Native Apps &amp; Infrastructure</text>
 
   </g>
 
