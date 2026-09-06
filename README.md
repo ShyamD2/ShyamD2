@@ -46,14 +46,15 @@ Cloud Infrastructure &amp; DevSecOps Engineer | AWS • Kubernetes • Terraform
 
 ## 👋 Recruiter? Start Here
 
-A fast, zero-friction directory to evaluate my architectural depth, code quality, and cloud deployments:
+A fast, zero-friction directory to evaluate my architectural depth, code quality, and cloud deployments across my public repositories:
 
 | What You Are Looking For | Featured Engineering Proof | Primary Technical Stack |
 | :--- | :--- | :--- |
 | 🌟 **Distributed Systems &amp; FinOps** | [**KubeForecast**](https://github.com/ShyamD2/KubeForecast) — Autonomous EKS Predictive Scheduler | Kubernetes Scheduling Framework, AWS EKS v1.31, Go, 90ns Latency |
-| 🏗️ **AWS Infrastructure as Code** | [**Production AWS Infrastructure**](https://github.com/ShyamD2) — Dual-AZ Secure VPC &amp; Compute | HashiCorp Terraform, Multi-AZ VPC, ALB, Auto Scaling, NAT Gateway |
-| 🔐 **Cloud &amp; Network Security** | [**Hybrid IPsec VPN Architecture**](https://github.com/ShyamD2) — Encrypted Cross-Cloud Routing | AWS VPC + Azure VNet, IPsec Site-to-Site VPN, Route Tables |
-| 🤖 **Event-Driven Automation** | [**Automated Disaster Recovery**](https://github.com/ShyamD2) — Cloud Backup Pipeline | Python boto3, AWS S3, EBS Snapshots, SNS Incident Alerting |
+| 🛡️ **Cloud Security &amp; SOAR** | [**aegis-cloud-security**](https://github.com/ShyamD2/aegis-cloud-security) — Multi-Account Threat Detection | AWS, EventBridge, Lambda, GuardDuty, Terraform, Automated Containment |
+| ⚡ **Serverless FinOps Architecture** | [**aws-cloud-serverless-url-shortener**](https://github.com/ShyamD2/aws-cloud-serverless-url-shortener) — Event-Driven App | Terraform, API Gateway, Lambda, DynamoDB, SQS, CloudWatch |
+| 🔐 **Privileged Access Management** | [**SecureVault-Campus**](https://github.com/ShyamD2/SecureVault-Campus) / [**cyberark-pam-lab-api**](https://github.com/ShyamD2/cyberark-pam-lab-api) | Active Directory, PAM Vaulting, Python FastAPI, Docker, pytest |
+| ☁️ **AWS Core Infrastructure** | [**Scalable-AWS-Cloud-Infrastructure**](https://github.com/ShyamD2/Scalable-AWS-Cloud-Infrastructure-Deployment) — Multi-AZ VPC | AWS VPC, Application Load Balancer, EC2 Auto Scaling Groups |
 | 📄 **Direct Contact &amp; Connect** | [**LinkedIn Profile**](https://linkedin.com/in/shyam-kumar-d-951254329) • [**Email**](mailto:dshyamkumar021@gmail.com) | Response SLA: Under 24 Hours |
 
 ---
@@ -82,11 +83,11 @@ Instead of an unverified list of logos, here is the architectural proof for ever
 | Engineering Domain | Primary Technologies | Verified Architectural Proof in Code |
 | :--- | :--- | :--- |
 | **Container Orchestration** | **Kubernetes**, **AWS EKS v1.31**, **Scheduler Framework** | Native Go plugin evaluating `Score`/`PreScore` in **90.35 ns**, Mutating Admission Webhook router, Pod Disruption Budget (PDB) safeguards ([`KubeForecast`](https://github.com/ShyamD2/KubeForecast)). |
-| **Infrastructure as Code (IaC)** | **Terraform**, **Helm v3** | 100% codified, modular AWS infrastructure (`modules/vpc`, `modules/eks`, `modules/ecr`, `modules/iam`, `modules/s3`), parameterized Helm packaging with zero ClickOps. |
+| **Infrastructure as Code (IaC)** | **Terraform**, **Helm v3** | 100% codified, modular AWS infrastructure (`modules/vpc`, `modules/eks`, `modules/ecr`, `modules/iam`, `modules/s3`), parameterized Helm packaging with zero ClickOps ([`KubeForecast`](https://github.com/ShyamD2/KubeForecast), [`aws-cloud-serverless-url-shortener`](https://github.com/ShyamD2/aws-cloud-serverless-url-shortener)). |
 | **Cloud Infrastructure** | **AWS** (VPC, EC2, ALB, NAT, ECR, IAM IRSA, S3), **Azure** | Dual-AZ isolated public/private network topology, automated rolling ASG scaling, IAM OIDC federation with zero static credentials. |
-| **Observability &amp; FinOps** | **Grafana**, **Prometheus**, **CloudWatch** | 5 production Grafana JSON dashboards (`dashboards/grafana/`), sub-millisecond Prometheus exporters, real-time FinOps ledger. |
+| **Observability &amp; FinOps** | **Grafana**, **Prometheus**, **CloudWatch** | 5 production Grafana JSON dashboards (`dashboards/grafana/`), sub-millisecond Prometheus exporters, real-time FinOps cost ledger ([`KubeForecast`](https://github.com/ShyamD2/KubeForecast)). |
 | **Systems &amp; Languages** | **Go (Golang)**, **Python**, **Bash**, **Linux** (Ubuntu/Kali) | Compiled low-latency Go microservices, boto3 automation scripts, systemd daemons, Linux kernel cgroups v2. |
-| **Security &amp; Networking** | **TCP/IP**, **IPsec VPN**, **Wireshark**, **Nmap**, **Burp Suite** | Cross-cloud encrypted site-to-site IPsec tunnel between AWS &amp; Azure, strict security group boundaries, TLS 1.3 edge termination. |
+| **Security &amp; Networking** | **TCP/IP**, **PAM**, **Wireshark**, **Nmap**, **Burp Suite** | Privileged Access Management labs, automated threat containment, security groups, and TLS 1.3 edge termination ([`aegis-cloud-security`](https://github.com/ShyamD2/aegis-cloud-security), [`SecureVault-Campus`](https://github.com/ShyamD2/SecureVault-Campus)). |
 
 ---
 
@@ -136,20 +137,23 @@ Design → Codify (IaC) → Secure (Least Privilege) → Test (CI/CD) → Monito
 
 ---
 
-### Supporting Cloud &amp; Infrastructure Projects
+### Production Cloud, Security &amp; Systems Projects
 
 | Project | Core Stack | Architectural Highlights |
 | :--- | :--- | :--- |
-| **⚡ [Scalable Multi-AZ AWS Infrastructure](https://github.com/ShyamD2)** | Terraform, AWS EC2, ALB, Auto Scaling, VPC, IAM | Multi-AZ Application Load Balancer with dynamic EC2 Auto Scaling across isolated private subnets, NAT Gateway outbound egress, and CloudWatch alarm triggers. |
-| **🌐 [Hybrid Cloud Network Architecture](https://github.com/ShyamD2)** | AWS VPC, Azure VNet, Site-to-Site IPsec VPN, BGP | Dual-tunnel IPsec site-to-site VPN bridging AWS VPC with Azure Virtual Network, bidirectional route propagation, and end-to-end security group hardening. |
-| **🔒 [Automated Cloud Backup &amp; DR Pipeline](https://github.com/ShyamD2)** | Python boto3, AWS EC2, EBS, S3, SNS | Event-driven EBS volume snapshotting with automated lifecycle retention policies, cross-region replication, and instant SNS incident alerts. |
+| **🛡️ [aegis-cloud-security](https://github.com/ShyamD2/aegis-cloud-security)** | AWS, Terraform, EventBridge, Lambda, GuardDuty, IAM | Multi-account threat detection, automated SOAR containment, attack-path analysis, and immutable forensic evidence preservation. |
+| **⚡ [aws-cloud-serverless-url-shortener](https://github.com/ShyamD2/aws-cloud-serverless-url-shortener)** | Terraform, API Gateway, Lambda, DynamoDB, SQS, CloudWatch | Production-style serverless platform with asynchronous analytics, modular IaC, automated security scanning, and FinOps controls. |
+| **🔐 [SecureVault-Campus](https://github.com/ShyamD2/SecureVault-Campus)** | Active Directory, Windows Server, Linux, PAM, Docker | Enterprise Privileged Access Management lab simulating credential vaulting, session isolation, and role-based access governance. |
+| **🚀 [cyberark-pam-lab-api](https://github.com/ShyamD2/cyberark-pam-lab-api)** | Python FastAPI, Pydantic, Docker, pytest, REST | REST API backing a PAM lab dashboard with typed safe management, account discovery endpoints, and automated unit testing. |
+| **🚨 [incident-response-platform](https://github.com/ShyamD2/incident-response-platform)** | Python, Webhooks, Alerting, Operational Runbooks | Incident management platform for automated alert triage, severity classification, and operational runbook execution. |
+| **☁️ [Scalable-AWS-Cloud-Infrastructure](https://github.com/ShyamD2/Scalable-AWS-Cloud-Infrastructure-Deployment)** | AWS VPC, EC2, ALB, Auto Scaling, Security Groups | Multi-AZ infrastructure provisioning public/private subnets, Application Load Balancers, and EC2 Auto Scaling groups. |
 
 ---
 
 ## 💼 Professional Experience
 
 <details open>
-<summary><b>☁️ Cloud Computing &amp; Systems Intern — Reccsar Pvt. Ltd.</b> &nbsp;|&nbsp; Jan 2026 – Apr 2026</summary>
+<summary><b>☁️ Cloud Computing &amp; Systems Intern — Reccsar Pvt. Ltd.</b> &nbsp;|&nbsp; Apr 2026 – May 2026</summary>
 
 <br/>
 
@@ -165,15 +169,6 @@ Design → Codify (IaC) → Secure (Least Privilege) → Test (CI/CD) → Monito
 
 **B.Sc. Networking (Cloud Computing)**  
 *Subbalakshmi Lakshmipathy College of Science, Madurai* · Expected: **May 2027**
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShyamD2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=030712&title_color=00f0ff&icon_color=00f0ff&text_color=7d8ea6" height="165" alt="ShyamD2's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShyamD2&layout=compact&theme=tokyonight&hide_border=true&bg_color=030712&title_color=00f0ff&text_color=7d8ea6" height="165" alt="Top Languages" />
-</p>
 
 ---
 
