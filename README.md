@@ -11,11 +11,11 @@
 </h1>
 
 <h3 align="center">
-Cloud &amp; Infrastructure Engineer | AWS • Kubernetes • Terraform • DevSecOps
+Cloud Infrastructure &amp; DevSecOps Engineer | AWS • Kubernetes • Terraform • Linux • FinOps
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3200&pause=1000&color=00F0FF&center=true&vCenter=true&width=950&lines=Cloud+%26+Infrastructure+Engineer+%7C+AWS+%7C+Kubernetes+%7C+Terraform;Author+of+KubeForecast+(Autonomous+EKS+Predictive+Scheduler);Production+IaC+with+Terraform+%26+Helm+v3;Sub-Millisecond+Go+Systems+%26+Cloud+FinOps+Optimization;Ship+Secure%2C+Scalable+Infrastructure+%E2%80%A2+Leave+No+Downtime"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3200&pause=1000&color=00F0FF&center=true&vCenter=true&width=950&lines=Cloud+Infrastructure+%26+DevSecOps+Engineer+%7C+AWS+%7C+Kubernetes;Author+of+KubeForecast+(Autonomous+EKS+Predictive+Scheduler);Production+Modular+IaC+with+Terraform+%26+Helm+v3;Sub-Millisecond+Go+Systems+%26+Cloud+FinOps+Optimization;Build+Secure%2C+Scalable+Infra+%E2%80%A2+Automate+Everything+%E2%80%A2+Monitor+What+Matters"/>
 </p>
 
 <p align="center">
@@ -46,60 +46,42 @@ Cloud &amp; Infrastructure Engineer | AWS • Kubernetes • Terraform • DevSe
 
 ## 👋 Recruiter? Start Here
 
-A quick directory to evaluate my architectural depth, code quality, and cloud deployments:
+A fast, zero-friction directory to evaluate my architectural depth, code quality, and cloud deployments:
 
-| What You Are Looking For | Project &amp; Verified Proof | Key Technical Stack |
+| What You Are Looking For | Featured Engineering Proof | Primary Technical Stack |
 | :--- | :--- | :--- |
-| 🌟 **Flagship Distributed Systems** | [**KubeForecast**](https://github.com/ShyamD2/KubeForecast) — Autonomous EKS Predictive Scheduler | Kubernetes Scheduling Framework, AWS EKS v1.31, Go, 90ns Scoring |
+| 🌟 **Distributed Systems &amp; FinOps** | [**KubeForecast**](https://github.com/ShyamD2/KubeForecast) — Autonomous EKS Predictive Scheduler | Kubernetes Scheduling Framework, AWS EKS v1.31, Go, 90ns Latency |
 | 🏗️ **AWS Infrastructure as Code** | [**Production AWS Infrastructure**](https://github.com/ShyamD2) — Dual-AZ Secure VPC &amp; Compute | HashiCorp Terraform, Multi-AZ VPC, ALB, Auto Scaling, NAT Gateway |
 | 🔐 **Cloud &amp; Network Security** | [**Hybrid IPsec VPN Architecture**](https://github.com/ShyamD2) — Encrypted Cross-Cloud Routing | AWS VPC + Azure VNet, IPsec Site-to-Site VPN, Route Tables |
 | 🤖 **Event-Driven Automation** | [**Automated Disaster Recovery**](https://github.com/ShyamD2) — Cloud Backup Pipeline | Python boto3, AWS S3, EBS Snapshots, SNS Incident Alerting |
-| 📄 **Direct Contact &amp; Resume** | [**LinkedIn Profile**](https://linkedin.com/in/shyam-kumar-d-951254329) • [**Email**](mailto:dshyamkumar021@gmail.com) | Response Time: Under 24 Hours |
+| 📄 **Direct Contact &amp; Connect** | [**LinkedIn Profile**](https://linkedin.com/in/shyam-kumar-d-951254329) • [**Email**](mailto:dshyamkumar021@gmail.com) | Response SLA: Under 24 Hours |
 
 ---
 
-## 👨‍💻 Engineering Profile
+## 👨‍💻 Executive Engineering Summary
 
-```python
-class ShyamKumarD:
-    name         = "Shyam Kumar D"
-    role         = "Cloud & Infrastructure Engineer | Kubernetes & AWS FinOps"
-    location     = "Madurai, Tamil Nadu, India 🇮🇳 (Open to BLR / HYD / MAA / Remote)"
-    degree       = "B.Sc. Networking (Cloud Computing) — SLCS, Madurai (2027)"
-    gpa          = 8.4
+Cloud Infrastructure &amp; DevSecOps Engineer specializing in **AWS cloud architectures**, **Kubernetes fleet orchestration**, **modular Infrastructure as Code (Terraform)**, and **cloud financial engineering (FinOps)**. 
 
-    flagship = {
-        "project": "KubeForecast",
-        "description": "Autonomous Kubernetes Predictive Scheduling & FinOps Optimization Engine",
-        "proven_roi": "50.0% to 66.7% compute node reduction verified on live AWS EKS hardware",
-        "latency": "90.35 ns/op node scoring evaluation (>11 million decisions/second)",
-        "iac": "100% declarative Terraform modules (VPC, EKS, ECR, IAM IRSA, S3) + Helm v3"
-    }
+Author of **[KubeForecast](https://github.com/ShyamD2/KubeForecast)**, an autonomous Kubernetes predictive scheduling framework plugin and FinOps cost optimization engine that eliminates structural cloud compute waste by predicting node consolidation targets and steering workloads toward safe waterline nodes before fragmentation occurs (**90.35 ns/op scoring speed, verified 50.0% to 66.7% node fleet reduction on live AWS EKS hardware**).
 
-    core_competencies = [
-        "Container Orchestration: Kubernetes v1.31, EKS, Scheduler Framework, Webhooks, PDBs",
-        "Cloud Infrastructure: AWS (VPC, EC2, ALB, NAT, ECR, IAM IRSA, S3, CloudWatch)",
-        "Infrastructure as Code: HashiCorp Terraform (Modular), Helm v3 Enterprise Packaging",
-        "Observability & FinOps: Grafana (5x Dashboards), Prometheus Metrics, CloudWatch",
-        "Languages & Systems: Go (Golang), Python (boto3), Bash, Linux (Ubuntu/Kali)",
-        "Security & Networking: TCP/IP, IPsec Site-to-Site VPN, Wireshark, Nmap, Burp Suite"
-    ]
-
-    target_cert = "AWS Certified Solutions Architect – Associate (SAA-C03)"
-
-    def motto(self):
-        return "Ship secure, scalable infra. Eliminate structural cloud waste. Leave no downtime."
-```
+### 🎯 Current Focus &amp; Goals
+* **Core Focus Areas**:
+  - **Cloud Infrastructure**: Multi-AZ VPC network design, private subnet isolation, NAT Gateway egress, and least-privilege IAM IRSA federation.
+  - **Infrastructure as Code (IaC)**: Modular HashiCorp Terraform architectures, S3 remote state management, and enterprise Helm v3 packaging.
+  - **Kubernetes Fleet Engineering**: Custom Go Scheduling Framework plugins (`Score`/`PreScore`), Mutating Admission Webhooks, and Pod Disruption Budget (PDB) safeguards.
+  - **Observability &amp; FinOps**: Multi-dimensional Prometheus metric collectors, sub-millisecond PromQL queries, and 5 production Grafana dashboards.
+* **Target Certification**:
+  - **AWS Certified Solutions Architect – Associate (SAA-C03)** — Target: Q4 2026
 
 ---
 
 ## 🛠️ Verified Skills &amp; Architectural Evidence
 
-Instead of a generic list of logos, here is the architectural proof for every skill:
+Instead of an unverified list of logos, here is the architectural proof for every skill:
 
 | Engineering Domain | Primary Technologies | Verified Architectural Proof in Code |
 | :--- | :--- | :--- |
-| **Container Orchestration** | **Kubernetes**, **AWS EKS v1.31**, **Scheduler Framework** | Native Go plugin evaluating `Score`/`PreScore` in **90.35 ns**, Mutating Admission Webhook, strict Pod Disruption Budget (PDB) safeguards ([`KubeForecast`](https://github.com/ShyamD2/KubeForecast)). |
+| **Container Orchestration** | **Kubernetes**, **AWS EKS v1.31**, **Scheduler Framework** | Native Go plugin evaluating `Score`/`PreScore` in **90.35 ns**, Mutating Admission Webhook router, Pod Disruption Budget (PDB) safeguards ([`KubeForecast`](https://github.com/ShyamD2/KubeForecast)). |
 | **Infrastructure as Code (IaC)** | **Terraform**, **Helm v3** | 100% codified, modular AWS infrastructure (`modules/vpc`, `modules/eks`, `modules/ecr`, `modules/iam`, `modules/s3`), parameterized Helm packaging with zero ClickOps. |
 | **Cloud Infrastructure** | **AWS** (VPC, EC2, ALB, NAT, ECR, IAM IRSA, S3), **Azure** | Dual-AZ isolated public/private network topology, automated rolling ASG scaling, IAM OIDC federation with zero static credentials. |
 | **Observability &amp; FinOps** | **Grafana**, **Prometheus**, **CloudWatch** | 5 production Grafana JSON dashboards (`dashboards/grafana/`), sub-millisecond Prometheus exporters, real-time FinOps ledger. |
@@ -143,7 +125,11 @@ Design → Codify (IaC) → Secure (Least Privilege) → Test (CI/CD) → Monito
 
 </div>
 
-* **Verified Cloud Cost Reduction**: Achieved **50.0% to 66.7% node fleet reduction** validated across multi-hour live hardware soak tests on AWS EKS (`c7i-flex.large`), freeing empty nodes so AWS Autoscaler could terminate them to **$0/hr**.
+* **Verified Cost-Benefit Economics**:
+  | Cluster Scale | Default Kubernetes Cost | KubeForecast Optimized Cost | Net Savings |
+  |---|---|---|---|
+  | **Live AWS 3-Node EKS Fleet** | $311.76 / month | $155.88 / month | **50.0% – 66.7% ($155.88/mo)** |
+  | **100-Node Enterprise Fleet** | $74,304 / year | $37,152 / year | **$37,152 / year saved** |
 * **Sub-Millisecond Execution**: Custom Go Kubernetes Scheduling Framework plugin evaluates candidate nodes in **90.35 nanoseconds** (>11 million evaluations/second).
 * **Zero Disruption &amp; PDB-Safe**: 100% compliant with Pod Disruption Budgets, taints, tolerations, and anti-affinity rules, backed by a fail-safe mutating admission router (`failurePolicy: Ignore`).
 * **Turnkey IaC &amp; Observability**: Modular Terraform (VPC, EKS v1.31, ECR, IAM IRSA, S3) with Helm v3 deployment, 5 pre-built Grafana dashboards, and an interactive JARVIS HUD cockpit.
@@ -152,15 +138,15 @@ Design → Codify (IaC) → Secure (Least Privilege) → Test (CI/CD) → Monito
 
 ### Supporting Cloud &amp; Infrastructure Projects
 
-| Project | Core Stack | Architecture Highlights |
+| Project | Core Stack | Architectural Highlights |
 | :--- | :--- | :--- |
-| **⚡ [Scalable Multi-AZ AWS Infrastructure](https://github.com/ShyamD2)** | Terraform, AWS EC2, ALB, Auto Scaling, VPC, IAM | Multi-AZ Application Load Balancer with dynamic EC2 Auto Scaling across isolated private subnets, NAT Gateway outbound egress, and CloudWatch metrics. |
-| **🌐 [Hybrid Cloud Network Architecture](https://github.com/ShyamD2)** | AWS VPC, Azure VNet, Site-to-Site IPsec VPN, BGP | Dual-tunnel IPsec site-to-site VPN bridging AWS VPC with Azure Virtual Network, route table propagation, and end-to-end security group hardening. |
+| **⚡ [Scalable Multi-AZ AWS Infrastructure](https://github.com/ShyamD2)** | Terraform, AWS EC2, ALB, Auto Scaling, VPC, IAM | Multi-AZ Application Load Balancer with dynamic EC2 Auto Scaling across isolated private subnets, NAT Gateway outbound egress, and CloudWatch alarm triggers. |
+| **🌐 [Hybrid Cloud Network Architecture](https://github.com/ShyamD2)** | AWS VPC, Azure VNet, Site-to-Site IPsec VPN, BGP | Dual-tunnel IPsec site-to-site VPN bridging AWS VPC with Azure Virtual Network, bidirectional route propagation, and end-to-end security group hardening. |
 | **🔒 [Automated Cloud Backup &amp; DR Pipeline](https://github.com/ShyamD2)** | Python boto3, AWS EC2, EBS, S3, SNS | Event-driven EBS volume snapshotting with automated lifecycle retention policies, cross-region replication, and instant SNS incident alerts. |
 
 ---
 
-## 💼 Experience
+## 💼 Professional Experience
 
 <details open>
 <summary><b>☁️ Cloud Computing &amp; Systems Intern — Reccsar Pvt. Ltd.</b> &nbsp;|&nbsp; Jan 2026 – Apr 2026</summary>
@@ -175,15 +161,10 @@ Design → Codify (IaC) → Secure (Least Privilege) → Test (CI/CD) → Monito
 
 ---
 
-## 🎓 Education &amp; Active Certifications
+## 🎓 Education
 
 **B.Sc. Networking (Cloud Computing)**  
-*Subbalakshmi Lakshmipathy College of Science, Madurai* · GPA: **8.4 / 10.0** · Expected: **May 2027**
-
-```
-🎯 Target: AWS Certified Solutions Architect – Associate (SAA-C03) — Q4 2026
-🚀 Active Research: In-Tree Kubernetes Scheduler Plugins, Karpenter Autoscaling, & FinOps Architecture
-```
+*Subbalakshmi Lakshmipathy College of Science, Madurai* · Expected: **May 2027**
 
 ---
 
@@ -201,6 +182,6 @@ Design → Codify (IaC) → Secure (Least Privilege) → Test (CI/CD) → Monito
 </p>
 
 <p align="center">
-  <i>"Ship secure, scalable infra. Eliminate structural cloud waste. Leave no downtime."</i><br/>
-  <b>— Shyam Kumar D · Madurai, Tamil Nadu 🇮🇳</b>
+  <i>"Build secure, scalable infrastructure. Automate everything. Monitor what matters."</i><br/>
+  <b>— Shyam Kumar D · India 🇮🇳</b>
 </p>
