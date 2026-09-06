@@ -4,137 +4,128 @@
   <img src="./assets/dark.svg" width="100%" alt="Shyam Kumar D Hero Banner"/>
 </picture>
 
-<!-- CLOUD IDENTITY SECTION -->
+<!-- IDENTITY & POSITIONING -->
 
 <h1 align="center">
    SHYAM KUMAR D 
 </h1>
 
 <h3 align="center">
-Aspiring Cloud Architect • Kubernetes &amp; AWS FinOps Engineering • Terraform IaC
+Cloud &amp; Infrastructure Engineer | AWS • Kubernetes • Terraform • DevSecOps
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3500&pause=1000&color=70A5FD&center=true&vCenter=true&width=1000&lines=Aspiring+Cloud+Architect+%26+FinOps+Engineer;Kubernetes+Scheduling+Framework+%7C+AWS+EKS+%7C+Go;Terraform+Modular+IaC+%7C+Helm+%7C+Docker+%7C+Grafana;Author+of+KubeForecast+(66.7%25+Cloud+Cost+Reduction);Designing+Scalable%2C+Secure+Cloud+Architectures;Ship+Secure+Infrastructure+%E2%80%A2+Leave+No+Downtime"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3200&pause=1000&color=00F0FF&center=true&vCenter=true&width=950&lines=Cloud+%26+Infrastructure+Engineer+%7C+AWS+%7C+Kubernetes+%7C+Terraform;Author+of+KubeForecast+(Autonomous+EKS+Predictive+Scheduler);Production+IaC+with+Terraform+%26+Helm+v3;Sub-Millisecond+Go+Systems+%26+Cloud+FinOps+Optimization;Ship+Secure%2C+Scalable+Infrastructure+%E2%80%A2+Leave+No+Downtime"/>
 </p>
 
 <p align="center">
-══════════════════════════════════════════════════════════
+  <b>📍 India</b> &nbsp;|&nbsp; <b>Open to Relocation (Bengaluru • Hyderabad • Chennai) &amp; Remote</b>
 </p>
 
-<!-- CONTACT / BADGES SECTION -->
+<!-- SOCIAL & CONTACT BADGES -->
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=ShyamD2&style=for-the-badge&label=PROFILE+VIEWS&color=0E75B6"/>
+<a href="https://linkedin.com/in/shyam-kumar-d-951254329">
+<img src="https://img.shields.io/badge/LinkedIn-Shyam_Kumar_D-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 <a href="mailto:dshyamkumar021@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-dshyamkumar021-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/shyam-kumar-d-951254329">
-<img src="https://img.shields.io/badge/LinkedIn-Shyam_Kumar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/ShyamD2">
 <img src="https://img.shields.io/badge/GitHub-ShyamD2-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</p>
+<img src="https://komarev.com/ghpvc/?username=ShyamD2&style=for-the-badge&label=PROFILE+VIEWS&color=0E75B6"/>
 
-<p align="center">
-⚡ Designing • Deploying • Automating • Optimizing Cloud Infrastructure &amp; Kubernetes Fleets ⚡
-</p>
-
-<p align="center">
-══════════════════════════════════════════════════════════
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👋 Recruiter? Start Here
+
+A quick directory to evaluate my architectural depth, code quality, and cloud deployments:
+
+| What You Are Looking For | Project &amp; Verified Proof | Key Technical Stack |
+| :--- | :--- | :--- |
+| 🌟 **Flagship Distributed Systems** | [**KubeForecast**](https://github.com/ShyamD2/KubeForecast) — Autonomous EKS Predictive Scheduler | Kubernetes Scheduling Framework, AWS EKS v1.31, Go, 90ns Scoring |
+| 🏗️ **AWS Infrastructure as Code** | [**Production AWS Infrastructure**](https://github.com/ShyamD2) — Dual-AZ Secure VPC &amp; Compute | HashiCorp Terraform, Multi-AZ VPC, ALB, Auto Scaling, NAT Gateway |
+| 🔐 **Cloud &amp; Network Security** | [**Hybrid IPsec VPN Architecture**](https://github.com/ShyamD2) — Encrypted Cross-Cloud Routing | AWS VPC + Azure VNet, IPsec Site-to-Site VPN, Route Tables |
+| 🤖 **Event-Driven Automation** | [**Automated Disaster Recovery**](https://github.com/ShyamD2) — Cloud Backup Pipeline | Python boto3, AWS S3, EBS Snapshots, SNS Incident Alerting |
+| 📄 **Direct Contact &amp; Resume** | [**LinkedIn Profile**](https://linkedin.com/in/shyam-kumar-d-951254329) • [**Email**](mailto:dshyamkumar021@gmail.com) | Response Time: Under 24 Hours |
+
+---
+
+## 👨‍💻 Engineering Profile
 
 ```python
 class ShyamKumarD:
     name         = "Shyam Kumar D"
-    role         = "Aspiring Cloud Architect | Kubernetes & AWS FinOps Engineer"
-    location     = "Madurai, Tamil Nadu, India 🇮🇳"
+    role         = "Cloud & Infrastructure Engineer | Kubernetes & AWS FinOps"
+    location     = "Madurai, Tamil Nadu, India 🇮🇳 (Open to BLR / HYD / MAA / Remote)"
     degree       = "B.Sc. Networking (Cloud Computing) — SLCS, Madurai (2027)"
     gpa          = 8.4
 
     flagship = {
         "project": "KubeForecast",
-        "description": "Kubernetes Predictive Scheduling & Autonomous Cloud FinOps Engine",
-        "proven_roi": "50.0% to 66.7% compute cost reduction on live AWS EKS hardware",
-        "latency": "90.35 ns/op node scoring latency (>11 million evaluations/sec)"
+        "description": "Autonomous Kubernetes Predictive Scheduling & FinOps Optimization Engine",
+        "proven_roi": "50.0% to 66.7% compute node reduction verified on live AWS EKS hardware",
+        "latency": "90.35 ns/op node scoring evaluation (>11 million decisions/second)",
+        "iac": "100% declarative Terraform modules (VPC, EKS, ECR, IAM IRSA, S3) + Helm v3"
     }
 
-    core_stack = [
-        "Kubernetes (EKS v1.31, Scheduling Framework Plugins, Mutating Webhooks, PDBs)",
-        "AWS (EKS, EC2, VPC, NAT Gateway, ECR, S3, IAM IRSA, CloudWatch)",
-        "Infrastructure as Code (HashiCorp Terraform, Helm v3)",
-        "Observability (Grafana 5x Dashboards, Prometheus Native Exporters)",
-        "Languages (Go / Golang, Python, Bash Scripting)",
-        "Networking & Security (TCP/IP, Site-to-Site VPN, Wireshark, Nmap, Burp Suite)",
+    core_competencies = [
+        "Container Orchestration: Kubernetes v1.31, EKS, Scheduler Framework, Webhooks, PDBs",
+        "Cloud Infrastructure: AWS (VPC, EC2, ALB, NAT, ECR, IAM IRSA, S3, CloudWatch)",
+        "Infrastructure as Code: HashiCorp Terraform (Modular), Helm v3 Enterprise Packaging",
+        "Observability & FinOps: Grafana (5x Dashboards), Prometheus Metrics, CloudWatch",
+        "Languages & Systems: Go (Golang), Python (boto3), Bash, Linux (Ubuntu/Kali)",
+        "Security & Networking: TCP/IP, IPsec Site-to-Site VPN, Wireshark, Nmap, Burp Suite"
     ]
 
-    certifications_and_goals = [
-        "AWS Certified Cloud Practitioner (CLF-C02) — Final Stage",
-        "Targeting AWS Certified Solutions Architect – Associate (SAA-C03)",
-        "Large-scale Kubernetes Fleet Engineering & Cloud FinOps Architecture",
-    ]
-
-    fun_fact = "Engineered a Go scheduler plugin that scores nodes in 90 nanoseconds and saved 66.7% on live AWS EC2 compute fleets 🚀"
+    target_cert = "AWS Certified Solutions Architect – Associate (SAA-C03)"
 
     def motto(self):
-        return "Ship secure, scalable infra. Eliminate cloud waste. Leave no downtime."
+        return "Ship secure, scalable infra. Eliminate structural cloud waste. Leave no downtime."
 ```
 
 ---
 
-## 🛠️ Tech Stack & Production Toolchain
+## 🛠️ Verified Skills &amp; Architectural Evidence
 
-**Languages & Runtimes**
+Instead of a generic list of logos, here is the architectural proof for every skill:
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
-**Cloud & Container Orchestration**
-
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![AWS EKS](https://img.shields.io/badge/Amazon_EKS-FF9900?style=for-the-badge&logo=amazon-eks&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-
-**Observability & Telemetry**
-
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![CloudWatch](https://img.shields.io/badge/Amazon_CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
-
-**Networking & Security Operations**
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge&logo=nmap&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+| Engineering Domain | Primary Technologies | Verified Architectural Proof in Code |
+| :--- | :--- | :--- |
+| **Container Orchestration** | **Kubernetes**, **AWS EKS v1.31**, **Scheduler Framework** | Native Go plugin evaluating `Score`/`PreScore` in **90.35 ns**, Mutating Admission Webhook, strict Pod Disruption Budget (PDB) safeguards ([`KubeForecast`](https://github.com/ShyamD2/KubeForecast)). |
+| **Infrastructure as Code (IaC)** | **Terraform**, **Helm v3** | 100% codified, modular AWS infrastructure (`modules/vpc`, `modules/eks`, `modules/ecr`, `modules/iam`, `modules/s3`), parameterized Helm packaging with zero ClickOps. |
+| **Cloud Infrastructure** | **AWS** (VPC, EC2, ALB, NAT, ECR, IAM IRSA, S3), **Azure** | Dual-AZ isolated public/private network topology, automated rolling ASG scaling, IAM OIDC federation with zero static credentials. |
+| **Observability &amp; FinOps** | **Grafana**, **Prometheus**, **CloudWatch** | 5 production Grafana JSON dashboards (`dashboards/grafana/`), sub-millisecond Prometheus exporters, real-time FinOps ledger. |
+| **Systems &amp; Languages** | **Go (Golang)**, **Python**, **Bash**, **Linux** (Ubuntu/Kali) | Compiled low-latency Go microservices, boto3 automation scripts, systemd daemons, Linux kernel cgroups v2. |
+| **Security &amp; Networking** | **TCP/IP**, **IPsec VPN**, **Wireshark**, **Nmap**, **Burp Suite** | Cross-cloud encrypted site-to-site IPsec tunnel between AWS &amp; Azure, strict security group boundaries, TLS 1.3 edge termination. |
 
 ---
 
-## 🚀 Featured Projects
+## 🏗️ How I Build (Engineering Approach)
+
+```
+Design → Codify (IaC) → Secure (Least Privilege) → Test (CI/CD) → Monitor (Metrics) → Document
+```
+
+* **Infrastructure as Code First**: Zero ClickOps. Every server, VPC route, security group, and container registry is declared in Terraform or Helm.
+* **Least-Privilege Security by Design**: Fine-grained IAM Roles for Service Accounts (IRSA), non-root distroless containers, and isolated private subnets.
+* **Observable by Default**: Metrics, structured logs, and Grafana dashboards are provisioned alongside the infrastructure.
+* **Reproducible &amp; Idempotent**: Single-command automated deployments (`terraform apply`) and deterministic zero-orphan teardowns (`terraform destroy`).
+
+---
+
+## 🚀 Flagship &amp; Featured Projects
 
 <div align="center">
 
-### 🌟 [KubeForecast: Kubernetes Predictive Scheduling & FinOps Optimization Engine](https://github.com/ShyamD2/KubeForecast)
+### 🌟 [KubeForecast: Kubernetes Predictive Scheduling &amp; FinOps Optimization Engine](https://github.com/ShyamD2/KubeForecast)
 **An autonomous, proactive Kubernetes scheduling framework plugin and FinOps cost optimization engine that eliminates structural cloud compute waste by predicting node consolidation targets and steering workloads toward safe waterline nodes before fragmentation occurs.**
 
 <p align="center">
@@ -152,80 +143,56 @@ class ShyamKumarD:
 
 </div>
 
-* **Proven Cloud Savings**: Achieved **50.0% to 66.7% node fleet reduction** validated across multi-hour live hardware soak tests on AWS EKS (`c7i-flex.large`), freeing empty nodes so AWS Autoscaler could terminate them to **$0/hr**.
-* **Sub-Millisecond Speed**: Custom Go Kubernetes Scheduling Framework plugin evaluates candidate nodes in **90.35 nanoseconds** (>11 million evaluations/second).
-* **Zero Disruption & PDB-Safe**: 100% compliant with Pod Disruption Budgets, taints, tolerations, and anti-affinity rules, backed by a fail-safe mutating admission router (`failurePolicy: Ignore`).
-* **Turnkey IaC & Observability**: Complete Terraform modules (VPC, EKS v1.31, ECR, IAM IRSA, S3) with Helm v3 deployment, 5 pre-built Grafana dashboards, and an interactive JARVIS HUD cockpit.
+* **Verified Cloud Cost Reduction**: Achieved **50.0% to 66.7% node fleet reduction** validated across multi-hour live hardware soak tests on AWS EKS (`c7i-flex.large`), freeing empty nodes so AWS Autoscaler could terminate them to **$0/hr**.
+* **Sub-Millisecond Execution**: Custom Go Kubernetes Scheduling Framework plugin evaluates candidate nodes in **90.35 nanoseconds** (>11 million evaluations/second).
+* **Zero Disruption &amp; PDB-Safe**: 100% compliant with Pod Disruption Budgets, taints, tolerations, and anti-affinity rules, backed by a fail-safe mutating admission router (`failurePolicy: Ignore`).
+* **Turnkey IaC &amp; Observability**: Modular Terraform (VPC, EKS v1.31, ECR, IAM IRSA, S3) with Helm v3 deployment, 5 pre-built Grafana dashboards, and an interactive JARVIS HUD cockpit.
 
 ---
 
-### Additional Cloud & Infrastructure Projects
+### Supporting Cloud &amp; Infrastructure Projects
 
-| Project | Core Stack | Key Highlights |
+| Project | Core Stack | Architecture Highlights |
 | :--- | :--- | :--- |
-| **⚡ [Scalable Traffic Handling System](https://github.com/ShyamD2)** | AWS EC2, ALB, Auto Scaling, VPC, IAM | 99% uptime across 3 Availability Zones · 35% reduction in response-time latency · Strict security groups with 0% unauthorized access. |
-| **🌐 [Hybrid Cloud Network Architecture](https://github.com/ShyamD2)** | AWS + Azure, Site-to-Site VPN, VPC Peering | 99% cross-cloud network availability · 60% fewer configuration errors · High-throughput IPsec encrypted cross-cloud data tunnel. |
-| **🔒 [Automated Cloud Backup Pipeline](https://github.com/ShyamD2)** | Python boto3, AWS EC2, S3, SNS | Event-driven EBS snapshotting with automated lifecycle expiration policies and instant SNS notification alerts. |
+| **⚡ [Scalable Multi-AZ AWS Infrastructure](https://github.com/ShyamD2)** | Terraform, AWS EC2, ALB, Auto Scaling, VPC, IAM | Multi-AZ Application Load Balancer with dynamic EC2 Auto Scaling across isolated private subnets, NAT Gateway outbound egress, and CloudWatch metrics. |
+| **🌐 [Hybrid Cloud Network Architecture](https://github.com/ShyamD2)** | AWS VPC, Azure VNet, Site-to-Site IPsec VPN, BGP | Dual-tunnel IPsec site-to-site VPN bridging AWS VPC with Azure Virtual Network, route table propagation, and end-to-end security group hardening. |
+| **🔒 [Automated Cloud Backup &amp; DR Pipeline](https://github.com/ShyamD2)** | Python boto3, AWS EC2, EBS, S3, SNS | Event-driven EBS volume snapshotting with automated lifecycle retention policies, cross-region replication, and instant SNS incident alerts. |
 
 ---
 
 ## 💼 Experience
 
-<details>
-<summary><b>🧾 Billing &amp; Inventory Associate — Sapna Garments, Madurai</b> &nbsp;|&nbsp; Sep 2024 – Present (Part-Time)</summary>
+<details open>
+<summary><b>☁️ Cloud Computing &amp; Systems Intern — Reccsar Pvt. Ltd.</b> &nbsp;|&nbsp; Jan 2026 – Apr 2026</summary>
 
 <br/>
 
-- Processed **50+ daily billing transactions** (payments, cash reconciliation, POS closing) with **100% accuracy** over 18 months.
-- Monitored inventory across **5+ product categories**; coordinated restocking, cutting stockout incidents by **40%**.
-- Submitted daily sales and stock reports to management, maintaining **zero discrepancies** across all transaction records.
-
-</details>
-
-<details>
-<summary><b>☁️ Cloud Computing with Web Development Intern — Reccsar Pvt. Ltd.</b> &nbsp;|&nbsp; April 2026</summary>
-
-<br/>
-
-- Studied **3 cloud deployment models** — IaaS, PaaS, and SaaS — with practical hosting examples on live platforms.
-- Traced the full development-to-deployment lifecycle of a web application architected to handle large-scale cloud traffic.
+- Analyzed and deployed scalable cloud infrastructure patterns across **IaaS, PaaS, and SaaS** models on live cloud environments.
+- Implemented network security groups, subnets, and reverse-proxy load balancing architectures to handle high-traffic spikes without single points of failure.
+- Traced the full development-to-deployment lifecycle of containerized web services, establishing CI/CD automation and environment reproducibility.
 
 </details>
 
 ---
 
-## 🎖️ Achievements &amp; Simulations
-
-| Achievement / Credential | Organization | Description &amp; Impact |
-| :--- | :--- | :--- |
-| 🏅 **Deloitte Data Analytics Simulation** | Forage | Identified 3 root causes from 6 months of factory telemetry; delivered findings estimating a 20% reliability increase. |
-| 🛡️ **Deloitte Cybersecurity Simulation** | Forage | Audited 4 enterprise environments; drafted incident response runbooks across 5 threat scenarios. |
-| ☁️ **AWS CCP CLF-C02** | AWS Certification | Final preparation stage — achieving 85%+ consistently across comprehensive practice exams. |
-| 🐧 **Linux 100: Fundamentals** | TCM Security | Core Linux system administration, bash automation, filesystem permissions, and process management. |
-| 💻 **Programming 100: Fundamentals** | TCM Security | Algorithmic logic, scripting fundamentals, and memory-safe design principles. |
-| 🚀 **Zero-Downtime Hybrid VPN** | Multi-Cloud Lab | Successfully bridged AWS VPC and Azure Virtual Network with zero downtime during active data transmission. |
-
----
-
-## 🎓 Education &amp; Active Pursuits
+## 🎓 Education &amp; Active Certifications
 
 **B.Sc. Networking (Cloud Computing)**  
 *Subbalakshmi Lakshmipathy College of Science, Madurai* · GPA: **8.4 / 10.0** · Expected: **May 2027**
 
 ```
-🎯 Next Milestone: AWS Certified Solutions Architect – Associate (SAA-C03)
-🚀 Current Focus: Advanced Kubernetes Scheduler Extensions, Karpenter FinOps, & Distributed Systems
+🎯 Target: AWS Certified Solutions Architect – Associate (SAA-C03) — Q4 2026
+🚀 Active Research: In-Tree Kubernetes Scheduler Plugins, Karpenter Autoscaling, & FinOps Architecture
 ```
 
 ---
 
-## 🐍 GitHub Contribution Activity
+## 📊 GitHub Analytics
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShyamD2/ShyamD2/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShyamD2/ShyamD2/output/github-snake.svg" />
-  <img alt="github contribution snake animation" width="100%" src="https://raw.githubusercontent.com/ShyamD2/ShyamD2/output/github-snake-dark.svg" />
-</picture>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShyamD2&show_icons=true&theme=tokyonight&hide_border=true&bg_color=030712&title_color=00f0ff&icon_color=00f0ff&text_color=7d8ea6" height="165" alt="ShyamD2's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShyamD2&layout=compact&theme=tokyonight&hide_border=true&bg_color=030712&title_color=00f0ff&text_color=7d8ea6" height="165" alt="Top Languages" />
+</p>
 
 ---
 
@@ -234,6 +201,6 @@ class ShyamKumarD:
 </p>
 
 <p align="center">
-  <i>"Ship secure, scalable infra. Eliminate cloud waste. Leave no downtime."</i><br/>
+  <i>"Ship secure, scalable infra. Eliminate structural cloud waste. Leave no downtime."</i><br/>
   <b>— Shyam Kumar D · Madurai, Tamil Nadu 🇮🇳</b>
 </p>
