@@ -30,8 +30,8 @@ Cloud Infrastructure &amp; DevSecOps Engineer | AWS • Kubernetes • Terraform
 <img src="https://img.shields.io/badge/LinkedIn-Shyam_Kumar_D-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:dshyamkumar021@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-dshyamkumar021-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:shyamcloud021@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-shyamcloud021-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/ShyamD2">
