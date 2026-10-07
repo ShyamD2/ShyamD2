@@ -15,7 +15,7 @@ Cloud Infrastructure • DevOps • SRE • Autonomous Cyber-Physical Systems
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3200&pause=1000&color=00F0FF&center=true&vCenter=true&width=980&lines=Cloud+Infrastructure+%26+DevOps+Engineer+%7C+AWS+%7C+Kubernetes;Architect+of+Project+J.A.R.V.I.S.+(Autonomous+AgentOS);Author+of+KubeForecast+(Autonomous+EKS+Predictive+Scheduler);Production+Modular+IaC+with+Terraform+%26+Helm+v3;Zero-Downtime+Deployments+%E2%80%A2+Automate+Everything+%E2%80%A2+Monitor+What+Matters"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3200&pause=1000&color=00F0FF&center=true&vCenter=true&width=980&lines=Cloud+Infrastructure+%26+DevOps+Engineer+%7C+AWS+%7C+Kubernetes;Creator+of+DriftWarden+(Three-Source+AWS+Drift+%26+CIS+Engine);Architect+of+Project+J.A.R.V.I.S.+(Autonomous+AgentOS+Mark+VII);Author+of+KubeForecast+(Autonomous+EKS+Predictive+Scheduler);Production+Modular+IaC+with+Terraform+%26+Zero-Trust+CloudOps;Zero-Downtime+Deployments+%E2%80%A2+Automate+Everything+%E2%80%A2+Monitor+What+Matters"/>
 </p>
 
 <p align="center">
@@ -54,15 +54,17 @@ class ShyamKumarD:
     role         = "Cloud Infrastructure & DevOps Engineer / SRE"
 
     core_specializations = [
+        "Three-Source Cloud Drift & GitOps Remediation (DriftWarden)",
         "Autonomous Cyber-Physical Systems (AgentOS Mark VII)",
         "Kubernetes Scheduling & FinOps Optimization (KubeForecast)",
-        "AWS Cloud Architecture & Infrastructure as Code (Terraform)",
+        "AWS Cloud Architecture & Infrastructure as Code (Terraform 1.5+)",
         "Linux OS Internals & Kernel Telemetry (/proc, Systemd, Cron)",
         "Zero-Trust Security & DevSecOps (AST Auditing, CycloneDX SBOM)",
         "Production Reliability Engineering & Chaos Injection",
     ]
 
     flagship_systems = {
+        "DriftWarden": "High-Precision 3-Source AWS Drift & CIS v3.0 Engine (Go 1.24, GitOps HCL, Zero Eval)",
         "Project J.A.R.V.I.S.": "Production Cyber-Physical AgentOS (100/100 Benchmark, 268+ tests)",
         "KubeForecast": "Autonomous EKS Predictive Scheduler (Go 90.35ns latency, 50-66.7% node savings)",
         "Cloud Engineering Journey": "36-Day DevOps Master Plan (Python Automation & Linux Internals)",
@@ -81,6 +83,7 @@ A fast, zero-friction directory to evaluate my architectural depth, code quality
 
 | What You Are Looking For | Featured Engineering Proof | Primary Technical Stack |
 | :--- | :--- | :--- |
+| 🔍 **Three-Source Cloud Drift & GitOps** | [**DriftWarden**](https://github.com/ShyamD2/driftwarden) — AWS Drift & CIS v3.0 Engine | Go 1.24, Terraform 1.5+, AWS SDK v2, CIS Benchmarks, OIDC CI/CD |
 | 🛡️ **Autonomous Cyber-Physical AgentOS** | [**Project J.A.R.V.I.S.**](https://github.com/ShyamD2/project-jarvis) — Production Cyber-Physical OS | Python FastAPI, Win32 UIA, ONNX, Telegram ReAct, 100/100 Score |
 | 🌟 **Distributed Systems & FinOps** | [**KubeForecast**](https://github.com/ShyamD2/KubeForecast) — Autonomous EKS Predictive Scheduler | Kubernetes Scheduling Framework, AWS EKS v1.31, Go, 90ns Latency |
 | ☁️ **DevOps & Linux Mastery** | [**Cloud Engineering Journey**](https://github.com/ShyamD2/cloud-engineering-journey) — 36-Day Master Plan | Python Automation, Linux `/proc`, OverTheWire Bandit 0-10 |
@@ -89,6 +92,7 @@ A fast, zero-friction directory to evaluate my architectural depth, code quality
 | ⚡ **Serverless FinOps Architecture** | [**aws-cloud-serverless-url-shortener**](https://github.com/ShyamD2/aws-cloud-serverless-url-shortener) — Event-Driven App | Terraform, API Gateway, Lambda, DynamoDB, SQS, CloudWatch |
 | 🔐 **Privileged Access Management** | [**SecureVault-Campus**](https://github.com/ShyamD2/SecureVault-Campus) / [**cyberark-pam-lab-api**](https://github.com/ShyamD2/cyberark-pam-lab-api) | Active Directory, PAM Vaulting, Python FastAPI, Docker, pytest |
 | ☁️ **AWS Core Infrastructure** | [**Scalable-AWS-Cloud-Infrastructure**](https://github.com/ShyamD2/Scalable-AWS-Cloud-Infrastructure-Deployment) — Multi-AZ VPC | AWS VPC, Application Load Balancer, EC2 Auto Scaling Groups |
+| 🚨 **Security Operations Platform** | [**incident-response-platform**](https://github.com/ShyamD2/incident-response-platform) — SecOps Workflow Engine | TypeScript, React, Alert Pipelines, Incident Triage Runbooks |
 | 📄 **Direct Contact & Connect** | [**LinkedIn Profile**](https://linkedin.com/in/shyam-kumar-d-951254329/) • [**Email**](mailto:dshyamkumar021@gmail.com) | Response SLA: Under 24 Hours |
 
 ---
@@ -96,6 +100,34 @@ A fast, zero-friction directory to evaluate my architectural depth, code quality
 ## 🚀 Featured Flagship Systems
 
 <table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🔍 <a href="https://github.com/ShyamD2/driftwarden">DriftWarden (AWS Drift Engine)</a></h3>
+      <p align="center"><b>High-Precision Three-Source AWS Drift Detection, CIS Security & GitOps Engine</b></p>
+      <ul>
+        <li><b>Three-Source Reconciliation:</b> Simultaneously correlates <code>DESIRED (HCL) ↔ STATE (tfstate) ↔ LIVE (AWS)</code> to eliminate false positives and catch unapplied PR changes, shadow assets, and split-brain drifts.</li>
+        <li><b>Mechanically Enforced Safety:</b> Core binary strictly executes read-only API calls (<code>Describe*</code>, <code>List*</code>, <code>Get*</code>), verified in CI by automated Go AST static analysis. Strictly quarantines <code>AccessDenied</code> from <code>NotFound</code>.</li>
+        <li><b>Dual GitOps Remediation:</b> Synthesizes modern Terraform 1.5+ <code>import {}</code> blocks (<code>reconcile.tf</code>) for declarative adoption, alongside defensive zero-<code>eval</code> dry-run shell scripts (<code>revert.sh</code>).</li>
+        <li><b>CIS v3.0 & FinOps:</b> Built-in evaluation of CIS AWS Foundations Benchmark v3.0, idle monthly cost leak calculator, SHA-256 evidence bundles, and zero-cost reproducible golden demo.</li>
+      </ul>
+      <p align="center">
+        <code>Go 1.24</code> • <code>AWS SDK v2</code> • <code>Terraform 1.5+</code> • <code>CIS v3.0</code> • <code>GitHub Actions OIDC</code> • <code>Distroless (&lt;25MB)</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">🌟 <a href="https://github.com/ShyamD2/KubeForecast">KubeForecast (EKS Scheduler)</a></h3>
+      <p align="center"><b>Autonomous Kubernetes Predictive Scheduling & FinOps Optimization Engine</b></p>
+      <ul>
+        <li><b>Autonomous Fleet Optimization:</b> Eliminates structural cloud compute waste by predicting node consolidation targets and steering workloads toward safe waterline nodes before fragmentation occurs.</li>
+        <li><b>Sub-Millisecond Execution:</b> Custom Go Kubernetes Scheduling Framework plugin evaluates candidate nodes in <b>90.35 nanoseconds</b> (&gt;11 million evaluations/second).</li>
+        <li><b>Verified Cloud Economics:</b> Demonstrated <b>50.0% to 66.7% node fleet reduction</b> on live AWS EKS v1.31 hardware ($37,152/yr projected savings on 100-node fleets).</li>
+        <li><b>Turnkey IaC & Observability:</b> 100% modular Terraform (VPC, EKS, ECR, IAM IRSA, S3) with Helm v3 packaging, 5 Grafana dashboards, and PDB-compliant mutating admission webhooks.</li>
+      </ul>
+      <p align="center">
+        <code>Kubernetes v1.31</code> • <code>Go</code> • <code>AWS EKS</code> • <code>Terraform</code> • <code>Helm v3</code> • <code>Prometheus</code> • <code>Grafana</code>
+      </p>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">🛡️ <a href="https://github.com/ShyamD2/project-jarvis">Project J.A.R.V.I.S. (AgentOS)</a></h3>
@@ -111,42 +143,15 @@ A fast, zero-friction directory to evaluate my architectural depth, code quality
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🌟 <a href="https://github.com/ShyamD2/KubeForecast">KubeForecast (EKS Scheduler)</a></h3>
-      <p align="center"><b>Autonomous Kubernetes Predictive Scheduling & FinOps Optimization Engine</b></p>
-      <ul>
-        <li><b>Autonomous Fleet Optimization:</b> Eliminates structural cloud compute waste by predicting node consolidation targets and steering workloads toward safe waterline nodes before fragmentation occurs.</li>
-        <li><b>Sub-Millisecond Execution:</b> Custom Go Kubernetes Scheduling Framework plugin evaluates candidate nodes in <b>90.35 nanoseconds</b> (>11 million evaluations/second).</li>
-        <li><b>Verified Cloud Economics:</b> Demonstrated <b>50.0% to 66.7% node fleet reduction</b> on live AWS EKS v1.31 hardware ($37,152/yr projected savings on 100-node fleets).</li>
-        <li><b>Turnkey IaC & Observability:</b> 100% modular Terraform (VPC, EKS, ECR, IAM IRSA, S3) with Helm v3 packaging, 5 Grafana dashboards, and PDB-compliant mutating admission webhooks.</li>
-      </ul>
-      <p align="center">
-        <code>Kubernetes v1.31</code> • <code>Go</code> • <code>AWS EKS</code> • <code>Terraform</code> • <code>Helm v3</code> • <code>Prometheus</code> • <code>Grafana</code>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
       <h3 align="center">☁️ <a href="https://github.com/ShyamD2/cloud-engineering-journey">Cloud & DevOps Engineering Journey</a></h3>
       <p align="center"><b>36-Day DevOps Master Plan & Living Proof-of-Work Journal</b></p>
       <ul>
-        <li><b>Phase 1 Complete (Days 1–6):</b> Python Filesystem Automation (<code>file_inspector.py</code>), Safe Line-by-Line Log Error Streaming (<code>log_error_finder.py</code>), Ephemeral Filesystem Pruning (<code>auto_cleanup.py</code>), IP Subnet Classifiers (<code>list_operations.py</code>), O(1) HTTP HashMaps (<code>http_status_counter.py</code>), and IaC Bracket Linters & Buffers (<code>bracket_validator.py</code>, <code>request_buffer.py</code>).</li>
+        <li><b>Phase 1 Complete (Days 1–6):</b> Python Filesystem Automation (<code>file_inspector.py</code>), Safe Line-by-Line Log Error Streaming (<code>log_error_finder.py</code>), Ephemeral Filesystem Pruning (<code>auto_cleanup.py</code>), IP Subnet Classifiers (<code>list_operations.py</code>), O(1) HTTP HashMaps (<code>http_status_counter.py</code>), and IaC Bracket Linters & Buffers.</li>
         <li><b>Phase 2A in Progress (Days 7–8):</b> Linux Filesystem Hierarchy & virtual <code>/proc</code> kernel inspector (<code>inspect_proc.py</code>), Linux DAC permissions & security compliance auditor (<code>perm_auditor.py</code>), and <b>OverTheWire Bandit Levels 0–10</b> wargame solutions.</li>
         <li><b>Zero-Fluff Daily Documentation:</b> 59+ consecutive daily engineering logs documenting commands, errors, root causes, and production takeaways.</li>
       </ul>
       <p align="center">
         <code>Python</code> • <code>Linux Internals</code> • <code>Bash</code> • <code>Docker</code> • <code>Kubernetes</code> • <code>Terraform</code> • <code>CI/CD</code>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">🌐 <a href="https://github.com/ShyamD2/Personal-Portfolio">Interactive SRE & Cloud Portfolio</a></h3>
-      <p align="center"><b>Production-Grade Interactive SRE Cockpit</b></p>
-      <ul>
-        <li>Interactive engineering cockpit built with <b>React 18</b>, <b>TypeScript</b>, and <b>Vite</b>.</li>
-        <li>Simulates real-world distributed cloud workloads, cost optimization algorithms, and automated incident containment for engineering managers.</li>
-        <li>Features the Thanos Engine, dynamic architecture diagrams, and live system telemetry widgets.</li>
-      </ul>
-      <p align="center">
-        <code>React 18</code> • <code>TypeScript</code> • <code>Vite</code> • <code>TailwindCSS</code> • <code>Netlify</code>
       </p>
     </td>
   </tr>
@@ -160,9 +165,14 @@ A fast, zero-friction directory to evaluate my architectural depth, code quality
           <th>Architectural Highlights</th>
         </tr>
         <tr>
+          <td><b>🌐 <a href="https://github.com/ShyamD2/Personal-Portfolio">Personal-Portfolio</a></b></td>
+          <td>React 18, TypeScript, Vite, TailwindCSS</td>
+          <td>Interactive SRE cockpit with live incident simulations, Thanos engine architectural manipulation, and real-time telemetry widgets.</td>
+        </tr>
+        <tr>
           <td><b>🛡️ <a href="https://github.com/ShyamD2/aegis-cloud-security">aegis-cloud-security</a></b></td>
           <td>AWS, Terraform, EventBridge, Lambda, GuardDuty, IAM</td>
-          <td>Multi-account threat detection, automated SOAR containment, attack-path analysis, and immutable forensic evidence preservation.</td>
+          <td>Multi-account threat detection, automated SOAR containment, attack-path analysis, and SEC WORM immutable forensic evidence preservation.</td>
         </tr>
         <tr>
           <td><b>⚡ <a href="https://github.com/ShyamD2/aws-cloud-serverless-url-shortener">aws-cloud-serverless-url-shortener</a></b></td>
@@ -183,6 +193,11 @@ A fast, zero-friction directory to evaluate my architectural depth, code quality
           <td><b>☁️ <a href="https://github.com/ShyamD2/Scalable-AWS-Cloud-Infrastructure-Deployment">Scalable-AWS-Cloud-Infrastructure</a></b></td>
           <td>AWS VPC, EC2, ALB, Auto Scaling, Security Groups</td>
           <td>Multi-AZ infrastructure provisioning public/private subnets, Application Load Balancers, and EC2 Auto Scaling groups (99% uptime, 0 unauthorized access).</td>
+        </tr>
+        <tr>
+          <td><b>🚨 <a href="https://github.com/ShyamD2/incident-response-platform">incident-response-platform</a></b></td>
+          <td>TypeScript, React, Node.js, REST API</td>
+          <td>SecOps incident management dashboard streamlining alert intake, triage severity matrix, and automated containment runbooks.</td>
         </tr>
         <tr>
           <td><b>🌐 Zero-Downtime Hybrid Cloud VPN</b></td>
@@ -214,33 +229,39 @@ A fast, zero-friction directory to evaluate my architectural depth, code quality
       <img src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white"/>
       <img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white"/>
       <img src="https://img.shields.io/badge/Amazon%20EKS-FF9900?style=flat-square&logo=amazon-eks&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Amazon%20EventBridge-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Amazon%20GuardDuty-DD344C?style=flat-square&logo=amazonaws&logoColor=white"/>
       <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
       <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white"/>
     </td>
   </tr>
   <tr>
-    <td><b>DevOps & Orchestration</b></td>
+    <td><b>DevOps, IaC & Orchestration</b></td>
     <td>
+      <img src="https://img.shields.io/badge/Terraform%201.5%2B-844FBA?style=flat-square&logo=terraform&logoColor=white"/>
       <img src="https://img.shields.io/badge/Kubernetes%20v1.31-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
       <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white"/>
       <img src="https://img.shields.io/badge/Helm%20v3-0F1689?style=flat-square&logo=helm&logoColor=white"/>
       <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
       <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+      <img src="https://img.shields.io/badge/GitOps-00ADD8?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Distroless%20Static-2496ED?style=flat-square"/>
       <img src="https://img.shields.io/badge/CI%2FCD-009688?style=flat-square"/>
     </td>
   </tr>
   <tr>
     <td><b>Programming & Systems</b></td>
     <td>
-      <img src="https://img.shields.io/badge/Go%201.23%2B-00ADD8?style=flat-square&logo=go&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Go%201.24%2B-00ADD8?style=flat-square&logo=go&logoColor=white"/>
       <img src="https://img.shields.io/badge/Python%203.13-3776AB?style=flat-square&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+      <img src="https://img.shields.io/badge/AWS%20SDK%20v2-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
       <img src="https://img.shields.io/badge/Boto3-FF9900?style=flat-square&logo=amazonaws&logoColor=white"/>
       <img src="https://img.shields.io/badge/Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white"/>
       <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white"/>
       <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white"/>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/React%2018-61DAFB?style=flat-square&logo=react&logoColor=black"/>
       <img src="https://img.shields.io/badge/SQLite%20WAL-003B57?style=flat-square&logo=sqlite&logoColor=white"/>
       <img src="https://img.shields.io/badge/C%2B%2B%20%2F%20ESP32-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
     </td>
@@ -258,12 +279,15 @@ A fast, zero-friction directory to evaluate my architectural depth, code quality
     </td>
   </tr>
   <tr>
-    <td><b>Networking & Security</b></td>
+    <td><b>Networking, Security & Compliance</b></td>
     <td>
+      <img src="https://img.shields.io/badge/CIS%20AWS%20v3.0-0052CC?style=flat-square"/>
       <img src="https://img.shields.io/badge/TCP%2FIP%20%26%20Subnetting-004170?style=flat-square"/>
       <img src="https://img.shields.io/badge/Site--to--Site%20IPSec%20VPN-0E75B6?style=flat-square"/>
       <img src="https://img.shields.io/badge/Privileged%20Access%20Management-0052CC?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Go%20AST%20Static%20Enforcement-00ADD8?style=flat-square"/>
       <img src="https://img.shields.io/badge/Bandit%20AST%20Scanner-E95420?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Govulncheck-00ADD8?style=flat-square"/>
       <img src="https://img.shields.io/badge/CycloneDX%20SBOM-0052CC?style=flat-square"/>
       <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
       <img src="https://img.shields.io/badge/Nmap-004170?style=flat-square&logo=nmap&logoColor=white"/>
@@ -271,13 +295,14 @@ A fast, zero-friction directory to evaluate my architectural depth, code quality
     </td>
   </tr>
   <tr>
-    <td><b>Observability & FinOps</b></td>
+    <td><b>Observability, FinOps & SRE</b></td>
     <td>
       <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white"/>
       <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
       <img src="https://img.shields.io/badge/Amazon%20CloudWatch-FF4F8B?style=flat-square&logo=amazoncloudwatch&logoColor=white"/>
       <img src="https://img.shields.io/badge/W3C%20Traceparent-4285F4?style=flat-square"/>
       <img src="https://img.shields.io/badge/FinOps%20Cost%20Optimization-28A745?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Double--Read%20Consistency-00ADD8?style=flat-square"/>
       <img src="https://img.shields.io/badge/Chaos%20Engineering-FF4500?style=flat-square"/>
     </td>
   </tr>
@@ -315,6 +340,7 @@ A fast, zero-friction directory to evaluate my architectural depth, code quality
 
 | Milestone | Status / Verification | Significance |
 | :--- | :---: | :--- |
+| **DriftWarden Verification** | ⚡ **100% Invariant Guarantee** | Mechanically enforced read-only AWS SDK calls via Go AST static analysis; 20-package test suite passing with 0 race conditions; SHA-256 evidence manifests |
 | **Project J.A.R.V.I.S. Benchmark** | 🏆 **100/100 Composite Score** | 100/100 benchmark tasks passing, 5 domain SLAs met, 268+ automated unit/integration tests passing |
 | **KubeForecast Verification** | ⚡ **90.35 ns/op Scoring** | Evaluated on live AWS EKS v1.31; achieved 50.0% to 66.7% node fleet reduction |
 | **Bandit AST Security Analysis** | 🛡️ **Zero Defect (0 High / 0 Med)** | 25,480 lines of production code scanned with zero security defects |
@@ -338,10 +364,10 @@ Subbalakshmi Lakshmipathy College of Science (SLCS), Madurai, Tamil Nadu
 
 **📚 Currently Deep-Diving**
 ```
-✅ AWS Certified Cloud Practitioner (CLF-C02) — Final prep stage
-🔧 HashiCorp Terraform — Enterprise Modular Infrastructure as Code
-🐍 boto3 — Event-driven AWS cloud automation
-🔐 IAM Advanced Policies, IRSA & Zero-Trust Best Practices
+✅ AWS Certified Cloud Practitioner (CLF-C02) — Final mock exam prep stage
+🔧 HashiCorp Terraform 1.5+ & OpenTofu — Enterprise Modular IaC & Import Blocks
+⚡ Systems Programming & AST Analysis in Go — Concurrency, Static Analyzers, Compiler Pipelines
+🔐 Cloud Security Posture Management (CSPM) & Zero-Trust AWS IAM Architectures
 ```
 
 ---
