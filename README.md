@@ -83,7 +83,7 @@ A fast, zero-friction directory to evaluate my architectural depth, code quality
 
 | What You Are Looking For | Featured Engineering Proof | Primary Technical Stack |
 | :--- | :--- | :--- |
-| 🔍 **Three-Source Cloud Drift & GitOps** | [**DriftWarden**](https://github.com/ShyamD2/driftwarden) — AWS Drift & CIS v3.0 Engine | Go 1.24, Terraform 1.5+, AWS SDK v2, CIS Benchmarks, OIDC CI/CD |
+| 🔍 **Three-Source Cloud Drift & GitOps** | [**DriftWarden**](https://github.com/ShyamD2/driftwarden) ([20p Report](https://github.com/ShyamD2/driftwarden/blob/main/docs/driftwarden-project-report.pdf)) — AWS Drift & CIS v3.0 Engine | Go 1.24, Terraform 1.5+, AWS SDK v2, CIS Benchmarks, OIDC CI/CD |
 | 🛡️ **Autonomous Cyber-Physical AgentOS** | [**Project J.A.R.V.I.S.**](https://github.com/ShyamD2/project-jarvis) — Production Cyber-Physical OS | Python FastAPI, Win32 UIA, ONNX, Telegram ReAct, 100/100 Score |
 | 🌟 **Distributed Systems & FinOps** | [**KubeForecast**](https://github.com/ShyamD2/KubeForecast) — Autonomous EKS Predictive Scheduler | Kubernetes Scheduling Framework, AWS EKS v1.31, Go, 90ns Latency |
 | ☁️ **DevOps & Linux Mastery** | [**Cloud Engineering Journey**](https://github.com/ShyamD2/cloud-engineering-journey) — 36-Day Master Plan | Python Automation, Linux `/proc`, OverTheWire Bandit 0-10 |
@@ -109,6 +109,7 @@ A fast, zero-friction directory to evaluate my architectural depth, code quality
         <li><b>Mechanically Enforced Safety:</b> Core binary strictly executes read-only API calls (<code>Describe*</code>, <code>List*</code>, <code>Get*</code>), verified in CI by automated Go AST static analysis. Strictly quarantines <code>AccessDenied</code> from <code>NotFound</code>.</li>
         <li><b>Dual GitOps Remediation:</b> Synthesizes modern Terraform 1.5+ <code>import {}</code> blocks (<code>reconcile.tf</code>) for declarative adoption, alongside defensive zero-<code>eval</code> dry-run shell scripts (<code>revert.sh</code>).</li>
         <li><b>CIS v3.0 & FinOps:</b> Built-in evaluation of CIS AWS Foundations Benchmark v3.0, idle monthly cost leak calculator, SHA-256 evidence bundles, and zero-cost reproducible golden demo.</li>
+        <li><b>Published Specifications:</b> Complete 20-page architectural dossier and benchmark telemetry available in the <a href="https://github.com/ShyamD2/driftwarden/blob/main/docs/driftwarden-project-report.pdf"><b>Project Report (Edition 2026 PDF)</b></a>.</li>
       </ul>
       <p align="center">
         <code>Go 1.24</code> • <code>AWS SDK v2</code> • <code>Terraform 1.5+</code> • <code>CIS v3.0</code> • <code>GitHub Actions OIDC</code> • <code>Distroless (&lt;25MB)</code>
