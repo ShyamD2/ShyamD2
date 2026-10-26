@@ -70,7 +70,7 @@ class ShyamKumarD:
         "DriftWarden": "High-Precision 3-Source AWS Drift & CIS v3.0 Engine (Go 1.24, GitOps HCL, Zero Eval)",
         "Project J.A.R.V.I.S.": "Production Cyber-Physical AgentOS (100/100 Benchmark, 268+ tests)",
         "KubeForecast": "Autonomous EKS Predictive Scheduler (Go 90.35ns latency, 50-66.7% node savings)",
-        "Cloud Engineering Journey": "36-Day DevOps Master Plan (Python Automation & Linux Internals)",
+        "Cloud Engineering Journey": "60+ Days DevOps Proof-of-Work (Linux Internals, AWS, Containers, IaC)",
         "Personal SRE Portfolio": "Interactive React 18 SRE Cockpit with live incident simulations",
     }
 
@@ -89,7 +89,7 @@ A fast, zero-friction directory to evaluate my architectural depth, code quality
 | 🔍 **Three-Source Cloud Drift & GitOps** | [**DriftWarden**](https://github.com/ShyamD2/driftwarden) ([20p Report](https://github.com/ShyamD2/driftwarden/blob/main/docs/driftwarden-project-report.pdf)) — AWS Drift & CIS v3.0 Engine | Go 1.24, Terraform 1.5+, AWS SDK v2, CIS Benchmarks, OIDC CI/CD |
 | 🛡️ **Autonomous Cyber-Physical AgentOS** | [**Project J.A.R.V.I.S.**](https://github.com/ShyamD2/project-jarvis) — Production Cyber-Physical OS | Python FastAPI, Win32 UIA, ONNX, Telegram ReAct, 100/100 Score |
 | 🌟 **Distributed Systems & FinOps** | [**KubeForecast**](https://github.com/ShyamD2/KubeForecast) — Autonomous EKS Predictive Scheduler | Kubernetes Scheduling Framework, AWS EKS v1.31, Go, 90ns Latency |
-| ☁️ **DevOps & Linux Mastery** | [**Cloud Engineering Journey**](https://github.com/ShyamD2/cloud-engineering-journey) — 36-Day Master Plan | Python Automation, Linux `/proc`, OverTheWire Bandit 0-10 |
+| ☁️ **DevOps & Linux Mastery** | [**Cloud Engineering Journey**](https://github.com/ShyamD2/cloud-engineering-journey) — 60+ Days DevOps Proof-of-Work | Python Automation, Linux `/proc`, OverTheWire Bandit 0-10 |
 | 🌐 **Interactive Systems Engineering** | [**Personal SRE Portfolio**](https://shyamd2-portfolio.netlify.app) ([Repo](https://github.com/ShyamD2/Personal-Portfolio)) — Live Incident Simulator | React 18, TypeScript, Vite, Thanos Engine, Real-time telemetry |
 | 🛡️ **Cloud Security & SOAR** | [**aegis-cloud-security**](https://github.com/ShyamD2/aegis-cloud-security) — Multi-Account Threat Detection | AWS, EventBridge, Lambda, GuardDuty, Terraform, Automated Containment |
 | ⚡ **Serverless FinOps Architecture** | [**aws-cloud-serverless-url-shortener**](https://github.com/ShyamD2/aws-cloud-serverless-url-shortener) — Event-Driven App | Terraform, API Gateway, Lambda, DynamoDB, SQS, CloudWatch |
@@ -148,7 +148,7 @@ A fast, zero-friction directory to evaluate my architectural depth, code quality
     </td>
     <td width="50%" valign="top">
       <h3 align="center">☁️ <a href="https://github.com/ShyamD2/cloud-engineering-journey">Cloud & DevOps Engineering Journey</a></h3>
-      <p align="center"><b>36-Day DevOps Master Plan & Living Proof-of-Work Journal</b></p>
+      <p align="center"><b>60+ Days Continuous DevOps Proof-of-Work & Living Journal</b></p>
       <ul>
         <li><b>Phase 1 Complete (Days 1–6):</b> Python Filesystem Automation (<code>file_inspector.py</code>), Safe Line-by-Line Log Error Streaming (<code>log_error_finder.py</code>), Ephemeral Filesystem Pruning (<code>auto_cleanup.py</code>), IP Subnet Classifiers (<code>list_operations.py</code>), O(1) HTTP HashMaps (<code>http_status_counter.py</code>), and IaC Bracket Linters & Buffers.</li>
         <li><b>Phase 2A in Progress (Days 7–8):</b> Linux Filesystem Hierarchy & virtual <code>/proc</code> kernel inspector (<code>inspect_proc.py</code>), Linux DAC permissions & security compliance auditor (<code>perm_auditor.py</code>), and <b>OverTheWire Bandit Levels 0–10</b> wargame solutions.</li>
@@ -348,7 +348,7 @@ A fast, zero-friction directory to evaluate my architectural depth, code quality
 | **Project J.A.R.V.I.S. Benchmark** | 🏆 **100/100 Composite Score** | 100/100 benchmark tasks passing, 5 domain SLAs met, 268+ automated unit/integration tests passing |
 | **KubeForecast Verification** | ⚡ **90.35 ns/op Scoring** | Evaluated on live AWS EKS v1.31; achieved 50.0% to 66.7% node fleet reduction |
 | **Bandit AST Security Analysis** | 🛡️ **Zero Defect (0 High / 0 Med)** | 25,480 lines of production code scanned with zero security defects |
-| **36-Day DevOps Master Plan** | ⚡ **Phase 1 Complete (6/6 Days)** | Python automation toolchain & core data structures (LeetCode #1929, #217, #20) |
+| **Cloud DevOps Journey** | 🌟 **64+ Daily Logs Published** | Continuous hands-on proof-of-work: Linux `/proc`, Python automation, AWS Multi-AZ, Docker, Kubernetes & Security |
 | **OverTheWire Bandit Wargames** | 🎯 **Levels 0–10 Solved** | Hands-on Linux CLI mastery: SSH non-standard ports, string parsing, permissions, Base64 |
 | **AWS CCP (CLF-C02)** | ☁️ **In Progress** | Final mock exam stage (scoring 75%+ across consecutive mock sessions) |
 | **Zero-Downtime Hybrid VPN** | 🚀 **100% Availability** | Architected and configured AWS + Azure IPSec Site-to-Site VPN with zero operational downtime |
