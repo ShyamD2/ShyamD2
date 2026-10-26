@@ -31,6 +31,9 @@ Cloud Infrastructure • DevOps • SRE • Autonomous Cyber-Physical Systems
   <a href="mailto:dshyamkumar021@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-dshyamkumar021-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <a href="https://shyamd2-portfolio.netlify.app">
+    <img src="https://img.shields.io/badge/Live_Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+  </a>
   <a href="https://github.com/ShyamD2">
     <img src="https://img.shields.io/badge/GitHub-ShyamD2-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
@@ -87,7 +90,7 @@ A fast, zero-friction directory to evaluate my architectural depth, code quality
 | 🛡️ **Autonomous Cyber-Physical AgentOS** | [**Project J.A.R.V.I.S.**](https://github.com/ShyamD2/project-jarvis) — Production Cyber-Physical OS | Python FastAPI, Win32 UIA, ONNX, Telegram ReAct, 100/100 Score |
 | 🌟 **Distributed Systems & FinOps** | [**KubeForecast**](https://github.com/ShyamD2/KubeForecast) — Autonomous EKS Predictive Scheduler | Kubernetes Scheduling Framework, AWS EKS v1.31, Go, 90ns Latency |
 | ☁️ **DevOps & Linux Mastery** | [**Cloud Engineering Journey**](https://github.com/ShyamD2/cloud-engineering-journey) — 36-Day Master Plan | Python Automation, Linux `/proc`, OverTheWire Bandit 0-10 |
-| 🌐 **Interactive Systems Engineering** | [**Personal SRE Portfolio**](https://github.com/ShyamD2/Personal-Portfolio) — Live Incident Simulator | React 18, TypeScript, Vite, Thanos Engine, Real-time telemetry |
+| 🌐 **Interactive Systems Engineering** | [**Personal SRE Portfolio**](https://shyamd2-portfolio.netlify.app) ([Repo](https://github.com/ShyamD2/Personal-Portfolio)) — Live Incident Simulator | React 18, TypeScript, Vite, Thanos Engine, Real-time telemetry |
 | 🛡️ **Cloud Security & SOAR** | [**aegis-cloud-security**](https://github.com/ShyamD2/aegis-cloud-security) — Multi-Account Threat Detection | AWS, EventBridge, Lambda, GuardDuty, Terraform, Automated Containment |
 | ⚡ **Serverless FinOps Architecture** | [**aws-cloud-serverless-url-shortener**](https://github.com/ShyamD2/aws-cloud-serverless-url-shortener) — Event-Driven App | Terraform, API Gateway, Lambda, DynamoDB, SQS, CloudWatch |
 | 🔐 **Privileged Access Management** | [**SecureVault-Campus**](https://github.com/ShyamD2/SecureVault-Campus) / [**cyberark-pam-lab-api**](https://github.com/ShyamD2/cyberark-pam-lab-api) | Active Directory, PAM Vaulting, Python FastAPI, Docker, pytest |
